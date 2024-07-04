@@ -32,8 +32,8 @@ The React Native Alertify App is a mobile application designed to help users set
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/reminder-app.git
-   cd reminder-app
+   git clone https://github.com/sohailabubakr/AlertifyApp
+   cd AlertifyApp
    ```
 
 2. **Install dependencies:**
